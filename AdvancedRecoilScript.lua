@@ -5,7 +5,7 @@ local attackers = false
  
 -- Options: "capslock", "scrolllock", "numlock"
 -- While the chosen key is not active, the script will be functioning
-local toggleKey = "capslock"
+local toggleKey = "numlock"
  
 local mouse = "g502" -- superlight or g502
  
