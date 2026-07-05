@@ -1,13 +1,13 @@
 EnablePrimaryMouseButtonEvents(true)
  
 -- Set this to true for attackers, false for defenders
-local attackers = false
+local attackers = true
 
 -- Options: "capslock", "scrolllock", "numlock"
 -- While the chosen key is not active, the script will be functioning
-local toggleKey = "capslock"
+local toggleKey = "numlock"
  
-local mouse = "superlight" -- superlight or g502
+local mouse = "g502" -- superlight or g502
  
  
 --[[
